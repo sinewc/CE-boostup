@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(12,28): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(12,28): error C3260: 'constant': skipping unexpected token(s) before lambda body
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(14,1): error C3493: 'table' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(14,1): error C3493: 'row' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(14,1): error C3493: 'col' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(16,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(16,2): error C2143: syntax error: missing ')' before '}'
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(16,2): error C2059: syntax error: '}'
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(22,28): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(22,28): error C3260: 'constant': skipping unexpected token(s) before lambda body
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(32,1): error C3493: 'rowAvrg' cannot be implicitly captured because no default capture mode has been specified
+C:\Users\Windows\Desktop\test c\Project1\Project1\Source.cpp(48,1): fatal error C1004: unexpected end-of-file found
